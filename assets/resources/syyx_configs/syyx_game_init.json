@@ -1,0 +1,44 @@
+{
+  "syyx_app_id": "30901453",
+  "channel": {
+    "2": {
+      "app_version": "1.0.0.0",
+      "pkg_name": "com.fy.fdxcs.nearme.gamecenter"
+    },
+    "4": {
+      "app_version": "1.0.0.0",
+      "pkg_name": "com.lwhd.mgly.vivominigame"
+    },
+    "5": {
+      "app_version": "qq游戏版本号",
+      "pkg_name": "vivo包名"
+    },
+    "8": {
+      "app_version": "tt游戏版本号",
+      "pkg_name": "vivo包名"
+    },
+    "1": {
+      "app_version": "web测试版本号",
+      "pkg_name": "web包名"
+    },
+    "10": {
+      "app_version": "1.0.0.0",
+      "pkg_game": "com.qile.hjj.kyx.huawei"
+    }
+  },
+  "auto_load_atlas": false,
+  "atlas_path": "res/atlas/",
+  "stat_key": "99a34075402a40d8bcc7c141f04c2df5",
+  "config_key": "53ebd705e34144619b0cdd61f9a4982a",
+  "multual_push_file_path": "syyx_configs/multual_push_v3.json",
+  "business_config_file_path": "syyx_configs/business_config.csv",
+  "adv_config_file_path": "syyx_configs/adv.csv",
+  "rob_treasure_config_path": "syyx_configs/activity/rob_treasure.csv",
+  "rob_treasure_reward_config_path": "syyx_configs/activity/rob_treasure_reward.csv",
+  "rare_treasure_config_path": "syyx_configs/activity/rare_treasure.csv",
+  "activity_item_config_path": "syyx_configs/common/activity_item.csv",
+  "activity_turntable_config_path": "syyx_configs/common/activity_turntable.csv",
+  "activity_box_reward_config_path": "syyx_configs/common/activity_box_reward.csv",
+  "activity_box_first_reward_config_path": "syyx_configs/common/activity_box_first_reward.csv",
+  "ui_prefab_config_path": "syyx_configs/syyx_ui.csv"
+}

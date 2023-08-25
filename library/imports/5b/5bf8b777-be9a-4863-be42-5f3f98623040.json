@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yxz_0009_skill_jellyfish",
+    "texture": "fe54473b-5521-4303-a948-56667fd86b09",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      105,
+      105
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      105,
+      105
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

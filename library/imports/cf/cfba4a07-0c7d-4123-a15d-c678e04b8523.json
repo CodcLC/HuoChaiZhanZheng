@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Particle_Point_Light",
+    "texture": "661ce11f-25ab-4d81-b288-4e7ce8fc3813",
+    "atlas": "",
+    "rect": [
+      6,
+      6,
+      53,
+      54
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

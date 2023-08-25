@@ -1,0 +1,9 @@
+﻿ma,ui预制体类名称,ui广告类型（互推广告为1，原生广告为2，普通广告为3，不是广告的ui不用配置）,是否需要自动缩放(Laya),是否需要自动缩放(cocos)
+id,name,ad_type,laya_auto_scale,cocos_auto_scale
+int,string,int,boolean,boolean
+0,syyx_ui_banner,2,TRUE,TRUE
+1,syyx_ui_inner_interstitial,2,FALSE,FALSE
+2,syyx_ui_interstitial,2,TRUE,TRUE
+3,syyx_ui_native_icon,2,FALSE,FALSE
+4,syyx_ui_toast,,TRUE,TRUE
+5,syyx_ui_ctr,,TRUE,TRUE

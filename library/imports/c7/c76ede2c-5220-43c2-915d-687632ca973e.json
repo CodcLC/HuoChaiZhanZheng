@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "splat02_animated_3x3",
+    "texture": "924d4d4d-244e-4049-9dd0-0d75f77e0b7f",
+    "atlas": "",
+    "rect": [
+      0,
+      33,
+      923,
+      950
+    ],
+    "offset": [
+      -50.5,
+      4
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

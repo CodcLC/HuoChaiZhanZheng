@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spiderling1",
+    "texture": "3ff3b074-be2c-4b28-a2aa-4cc64ea338c9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      74,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      74,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

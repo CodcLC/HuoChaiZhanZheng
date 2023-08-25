@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guanqia_0000_tuichu",
+    "texture": "ea380474-24be-41c0-a41c-783d20945a63",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      75,
+      74
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      75,
+      74
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "D_2D_Ray_01",
+    "texture": "9d96daa1-b7e3-4e49-ae26-2c59b039a897",
+    "atlas": "",
+    "rect": [
+      11,
+      67,
+      487,
+      370
+    ],
+    "offset": [
+      -1.5,
+      4
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

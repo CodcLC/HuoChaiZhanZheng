@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "spawnEnemy10",
+    "texture": "ec977eb9-6001-4175-b40d-bd25c68fb852",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      313,
+      173
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      313,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

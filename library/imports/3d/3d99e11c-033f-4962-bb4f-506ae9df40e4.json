@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "triangle_soft",
+    "texture": "06a12c91-d4da-4bbb-a11d-def2c7cc2b5a",
+    "atlas": "",
+    "rect": [
+      17,
+      15,
+      223,
+      227
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

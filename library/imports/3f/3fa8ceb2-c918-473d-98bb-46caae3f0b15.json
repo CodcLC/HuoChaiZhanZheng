@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bluelight",
+    "texture": "75ca943c-b749-4c2a-87ff-b4d64a7ed035",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      213,
+      212
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      213,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

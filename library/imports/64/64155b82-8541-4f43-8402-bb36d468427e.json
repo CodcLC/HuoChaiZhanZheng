@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "totem_miniboss2",
+    "texture": "46441376-e0e1-49f8-af58-8a0ea3510bd8",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      359,
+      362
+    ],
+    "offset": [
+      -2,
+      -0.5
+    ],
+    "originalSize": [
+      367,
+      367
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

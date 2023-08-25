@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_revivelight12",
+    "texture": "24e087b2-40b6-418d-a5ce-11effd92676d",
+    "atlas": "",
+    "rect": [
+      27,
+      2,
+      136,
+      151
+    ],
+    "offset": [
+      3,
+      14.5
+    ],
+    "originalSize": [
+      184,
+      184
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

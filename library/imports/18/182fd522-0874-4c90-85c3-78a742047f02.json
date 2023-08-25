@@ -1,0 +1,459 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "feichuanshi",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.95,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "12": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                59,
+                -62
+              ]
+            },
+            {
+              "frame": 0.6833333333333333,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6833333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -198,
+                114
+              ]
+            },
+            {
+              "frame": 0.8166666666666667,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                176,
+                44
+              ]
+            },
+            {
+              "frame": 0.65,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.65,
+              "value": 255
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -187,
+                -216
+              ]
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.9333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.95,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                254,
+                -187
+              ]
+            },
+            {
+              "frame": 0.5666666666666667,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                41,
+                -319
+              ]
+            },
+            {
+              "frame": 0.9333333333333333,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.9333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.95,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                74,
+                187
+              ]
+            },
+            {
+              "frame": 0.7,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.7,
+              "value": 255
+            },
+            {
+              "frame": 0.7166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item7": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -139,
+                -26
+              ]
+            },
+            {
+              "frame": 0.7666666666666667,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.7666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.7833333333333333,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item8": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                55,
+                -169
+              ]
+            },
+            {
+              "frame": 0.8166666666666667,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item9": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                265,
+                136
+              ]
+            },
+            {
+              "frame": 0.9,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.9,
+              "value": 255
+            },
+            {
+              "frame": 0.9166666666666666,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item11": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -47,
+                81
+              ]
+            },
+            {
+              "frame": 0.8166666666666667,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8166666666666667,
+              "value": 255
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "icon_item10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": [
+                -290,
+                -51
+              ]
+            },
+            {
+              "frame": 0.6,
+              "value": [
+                -7,
+                852
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6,
+              "value": 255
+            },
+            {
+              "frame": 0.6166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

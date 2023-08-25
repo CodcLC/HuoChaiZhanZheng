@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "thunderbig",
+    "texture": "fbebbf7a-1ba1-467f-9c4d-dd8c630ab2af",
+    "atlas": "",
+    "rect": [
+      5,
+      0,
+      913,
+      608
+    ],
+    "offset": [
+      -41,
+      1.5
+    ],
+    "originalSize": [
+      1005,
+      611
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nub_1",
+    "texture": "ec0e0a52-b2a1-45ab-89aa-f44b3f10930b",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      397,
+      56
+    ],
+    "offset": [
+      -0.5,
+      4
+    ],
+    "originalSize": [
+      400,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

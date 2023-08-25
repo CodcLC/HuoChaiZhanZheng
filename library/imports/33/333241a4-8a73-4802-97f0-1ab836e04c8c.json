@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sy_0008_dhma",
+    "texture": "b608ff19-6d0d-4c1f-89d0-cae0e319a0b6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      116
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      135,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

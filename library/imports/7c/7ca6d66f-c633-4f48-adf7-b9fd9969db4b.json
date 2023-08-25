@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bossHpBar5",
+    "texture": "d7618db5-cd62-4b05-aea1-cd0fe7293849",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      11,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      11,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

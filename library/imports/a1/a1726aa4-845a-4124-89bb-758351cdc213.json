@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "business_config",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "﻿dw,desc,value\r\nid,desc,value\r\nstring,string,json\r\ndelat_time_normal,按钮延迟,[2]"
+}

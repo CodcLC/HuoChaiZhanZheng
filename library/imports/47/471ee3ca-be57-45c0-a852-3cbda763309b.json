@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Image_StrokeCooldownSkill",
+    "texture": "1012a8e9-590d-4593-88a5-b01bac123ef2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      147,
+      147
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      147,
+      147
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

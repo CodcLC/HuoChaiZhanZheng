@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reject",
+    "texture": "d9ed8d71-4d95-4dac-a8cd-0c5e71b1e1f7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      320,
+      131
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      320,
+      131
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

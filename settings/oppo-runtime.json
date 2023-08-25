@@ -1,0 +1,18 @@
+{
+  "package": "com.fy.fdxcs.nearme.gamecenter",
+  "name": "大侠传说",
+  "icon": "/Users/allan/Desktop/youhuo/hcrzd/sucai/icon.png",
+  "versionName": "1.2.9",
+  "versionCode": "129",
+  "minPlatformVersion": "1076",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "tinyPackageServer": "https://static-cdn.llewan.com/h5/project/qingdu/daxiacs/129/",
+  "useDebugKey": false,
+  "privatePath": "/Users/allan/Desktop/youhuo/hcrzd/sucai/private.pem",
+  "certificatePath": "/Users/allan/Desktop/youhuo/hcrzd/sucai/certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

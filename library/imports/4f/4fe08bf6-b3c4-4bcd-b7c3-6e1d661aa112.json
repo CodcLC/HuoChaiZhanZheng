@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Image_Background_BambooForest1_Fog",
+    "texture": "3b7611fd-6df9-4155-90dc-fcf481324ff6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1024,
+      36
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1024,
+      36
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

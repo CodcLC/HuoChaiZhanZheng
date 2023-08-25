@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enemy_HP_bar_02",
+    "texture": "0b20c80a-5709-4bdf-9cb4-94b8d3e95039",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      125,
+      15
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      133,
+      23
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

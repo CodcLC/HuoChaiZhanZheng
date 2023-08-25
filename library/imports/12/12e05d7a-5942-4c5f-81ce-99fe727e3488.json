@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SMALLSHRINE",
+    "texture": "a6fc20d4-d177-48cc-b8c3-c6877ac031cc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      249,
+      270
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      249,
+      270
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

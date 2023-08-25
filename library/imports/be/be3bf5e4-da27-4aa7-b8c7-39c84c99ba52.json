@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MOUNTAINS_3",
+    "texture": "e7a9ae83-43db-4fd1-9f3e-33143754a7e2",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      417,
+      291
+    ],
+    "offset": [
+      -1.5,
+      -0.5
+    ],
+    "originalSize": [
+      420,
+      292
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "nova_3x3_spritesheet",
+    "texture": "568b3c6e-dc96-4e42-8611-54425a31ecea",
+    "atlas": "",
+    "rect": [
+      46,
+      46,
+      932,
+      731
+    ],
+    "offset": [
+      0,
+      100.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

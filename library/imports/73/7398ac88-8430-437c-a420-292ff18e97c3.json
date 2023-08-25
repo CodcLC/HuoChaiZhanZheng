@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Image_BackgroundLoadingScreen",
+    "texture": "6f1175d7-6a15-4376-a5da-ee32d3ada5ba",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      1080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      1080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

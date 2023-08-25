@@ -1,0 +1,398 @@
+{
+  "projectPath": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen",
+  "actualPlatform": "wechatgame",
+  "mtimes": {
+    "90bbc7ae-6055-406f-ba4e-16ac2fadc238": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262381
+    },
+    "0982a546-290b-4394-a64b-1f7447e4d204": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262424
+    },
+    "4aa46457-37e3-4f1b-844b-23eb5bd2eb59": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262424
+    },
+    "3268fed2-b93b-4459-a085-d99f20fdb2b1": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262411
+    },
+    "3302b5df-42c3-41d5-8718-eb331aa8db48": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262411
+    },
+    "43361900-6085-4ec0-a845-4276dbd02a93": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262403
+    },
+    "32c5a883-f071-428e-bae8-dce68116928a": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262403
+    },
+    "564fc6f4-7ca8-4afd-a09c-a2b536436019": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262435
+    },
+    "e7a0f403-65b6-478d-a24c-7df424584dd2": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262435
+    },
+    "5fe650ab-a3fc-4cb1-8202-8a909a50fc73": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262445
+    },
+    "230c65fb-cbea-478b-b769-2c8880ffe541": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262445
+    },
+    "966d6adc-30c3-45fd-83a8-60318e391d22": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262393
+    },
+    "a9e21ef3-9ca7-4b53-a7d2-9014c546ee81": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262393
+    },
+    "b29682db-11f8-4bb6-9d67-7c893aae5c5a": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262479
+    },
+    "eff23ffb-b45f-48c4-bc99-3bf4903459a2": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262479
+    },
+    "bde51ef5-de84-45be-baef-c9128cc335b7": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262447
+    },
+    "5e194e68-5ba7-4fb1-9311-8ce7abcfd043": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262447
+    },
+    "cf51d967-5173-49a3-8e7b-5639ba95e4f6": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262468
+    },
+    "038e077c-9edf-4be9-9ab6-a53887619429": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262468
+    },
+    "d626d476-763c-4a04-ad31-674d775b0d7b": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262457
+    },
+    "41881545-d1c3-46f1-926f-6ee5f2b371da": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262457
+    },
+    "f371162f-5463-466d-82ac-d2bffb257d45": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262469
+    },
+    "d2efcbcb-039b-41b3-8bdc-4818f8a6f9e7": {
+      "assetMtime": 1680748702000,
+      "metaMtime": 1692979262469
+    }
+  },
+  "result": {
+    "name": "ads",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.1",
+    "uuid": "90bbc7ae-6055-406f-ba4e-16ac2fadc238",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "bt_banner_01",
+            "uuid": "0982a546-290b-4394-a64b-1f7447e4d204",
+            "textureUuid": "4aa46457-37e3-4f1b-844b-23eb5bd2eb59",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591536_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 416,
+              "height": 164,
+              "rotatedWidth": 164,
+              "rotatedHeight": 416
+            },
+            "rawWidth": 416,
+            "rawHeight": 164,
+            "width": 422,
+            "height": 170,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/4a/4aa46457-37e3-4f1b-844b-23eb5bd2eb59.png",
+            "x": 0,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 170,
+            "rotatedHeight": 422
+          },
+          {
+            "name": "bg_banner_01",
+            "uuid": "966d6adc-30c3-45fd-83a8-60318e391d22",
+            "textureUuid": "a9e21ef3-9ca7-4b53-a7d2-9014c546ee81",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_5.png",
+            "trim": {
+              "x": 173,
+              "y": 3,
+              "width": 539,
+              "height": 87,
+              "rotatedWidth": 87,
+              "rotatedHeight": 539
+            },
+            "rawWidth": 539,
+            "rawHeight": 87,
+            "width": 545,
+            "height": 93,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/a9/a9e21ef3-9ca7-4b53-a7d2-9014c546ee81.png",
+            "x": 170,
+            "y": 0,
+            "rotated": true,
+            "rotatedWidth": 93,
+            "rotatedHeight": 545
+          },
+          {
+            "name": "bt_chaping_01",
+            "uuid": "5fe650ab-a3fc-4cb1-8202-8a909a50fc73",
+            "textureUuid": "230c65fb-cbea-478b-b769-2c8880ffe541",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_4.png",
+            "trim": {
+              "x": 3,
+              "y": 425,
+              "width": 394,
+              "height": 141,
+              "rotatedWidth": 141,
+              "rotatedHeight": 394
+            },
+            "rawWidth": 394,
+            "rawHeight": 141,
+            "width": 400,
+            "height": 147,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/23/230c65fb-cbea-478b-b769-2c8880ffe541.png",
+            "x": 0,
+            "y": 422,
+            "rotated": true,
+            "rotatedWidth": 147,
+            "rotatedHeight": 400
+          },
+          {
+            "name": "img_title_bg2",
+            "uuid": "f371162f-5463-466d-82ac-d2bffb257d45",
+            "textureUuid": "d2efcbcb-039b-41b3-8bdc-4818f8a6f9e7",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_10.png",
+            "trim": {
+              "x": 150,
+              "y": 548,
+              "width": 342,
+              "height": 92,
+              "rotatedWidth": 92,
+              "rotatedHeight": 342
+            },
+            "rawWidth": 342,
+            "rawHeight": 92,
+            "width": 348,
+            "height": 98,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/d2/d2efcbcb-039b-41b3-8bdc-4818f8a6f9e7.png",
+            "x": 147,
+            "y": 545,
+            "rotated": true,
+            "rotatedWidth": 98,
+            "rotatedHeight": 348
+          },
+          {
+            "name": "bt_chaping_02",
+            "uuid": "bde51ef5-de84-45be-baef-c9128cc335b7",
+            "textureUuid": "5e194e68-5ba7-4fb1-9311-8ce7abcfd043",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_7.png",
+            "trim": {
+              "x": 3,
+              "y": 825,
+              "width": 83,
+              "height": 82,
+              "rotatedWidth": 83,
+              "rotatedHeight": 82
+            },
+            "rawWidth": 83,
+            "rawHeight": 82,
+            "width": 89,
+            "height": 88,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/5e/5e194e68-5ba7-4fb1-9311-8ce7abcfd043.png",
+            "x": 0,
+            "y": 822,
+            "rotatedWidth": 89,
+            "rotatedHeight": 88
+          },
+          {
+            "name": "img_ad_text2",
+            "uuid": "d626d476-763c-4a04-ad31-674d775b0d7b",
+            "textureUuid": "41881545-d1c3-46f1-926f-6ee5f2b371da",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_9.png",
+            "trim": {
+              "x": 92,
+              "y": 825,
+              "width": 120,
+              "height": 42,
+              "rotatedWidth": 42,
+              "rotatedHeight": 120
+            },
+            "rawWidth": 120,
+            "rawHeight": 42,
+            "width": 126,
+            "height": 48,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/41/41881545-d1c3-46f1-926f-6ee5f2b371da.png",
+            "x": 89,
+            "y": 822,
+            "rotated": true,
+            "rotatedWidth": 48,
+            "rotatedHeight": 126
+          },
+          {
+            "name": "img_close2",
+            "uuid": "cf51d967-5173-49a3-8e7b-5639ba95e4f6",
+            "textureUuid": "038e077c-9edf-4be9-9ab6-a53887619429",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_8.png",
+            "trim": {
+              "x": 3,
+              "y": 913,
+              "width": 78,
+              "height": 78,
+              "rotatedWidth": 78,
+              "rotatedHeight": 78
+            },
+            "rawWidth": 78,
+            "rawHeight": 78,
+            "width": 84,
+            "height": 84,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/03/038e077c-9edf-4be9-9ab6-a53887619429.png",
+            "x": 0,
+            "y": 910,
+            "rotatedWidth": 84,
+            "rotatedHeight": 84
+          },
+          {
+            "name": "bg_banner_02",
+            "uuid": "43361900-6085-4ec0-a845-4276dbd02a93",
+            "textureUuid": "32c5a883-f071-428e-bae8-dce68116928a",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_2.png",
+            "trim": {
+              "x": 87,
+              "y": 951,
+              "width": 81,
+              "height": 41,
+              "rotatedWidth": 81,
+              "rotatedHeight": 41
+            },
+            "rawWidth": 81,
+            "rawHeight": 41,
+            "width": 87,
+            "height": 47,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/32/32c5a883-f071-428e-bae8-dce68116928a.png",
+            "x": 84,
+            "y": 948,
+            "rotatedWidth": 87,
+            "rotatedHeight": 47
+          },
+          {
+            "name": "bt_banner_02",
+            "uuid": "564fc6f4-7ca8-4afd-a09c-a2b536436019",
+            "textureUuid": "e7a0f403-65b6-478d-a24c-7df424584dd2",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_3.png",
+            "trim": {
+              "x": 140,
+              "y": 896,
+              "width": 50,
+              "height": 43,
+              "rotatedWidth": 50,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 50,
+            "rawHeight": 43,
+            "width": 56,
+            "height": 49,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/e7/e7a0f403-65b6-478d-a24c-7df424584dd2.png",
+            "x": 137,
+            "y": 893,
+            "rotatedWidth": 56,
+            "rotatedHeight": 49
+          },
+          {
+            "name": "zz",
+            "uuid": "b29682db-11f8-4bb6-9d67-7c893aae5c5a",
+            "textureUuid": "eff23ffb-b45f-48c4-bc99-3bf4903459a2",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_6.png",
+            "trim": {
+              "x": 174,
+              "y": 945,
+              "width": 50,
+              "height": 50,
+              "rotatedWidth": 50,
+              "rotatedHeight": 50
+            },
+            "rawWidth": 50,
+            "rawHeight": 50,
+            "width": 56,
+            "height": 56,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/ef/eff23ffb-b45f-48c4-bc99-3bf4903459a2.png",
+            "x": 171,
+            "y": 942,
+            "rotatedWidth": 56,
+            "rotatedHeight": 56
+          },
+          {
+            "name": "bg_chaping_01",
+            "uuid": "3268fed2-b93b-4459-a085-d99f20fdb2b1",
+            "textureUuid": "3302b5df-42c3-41d5-8718-eb331aa8db48",
+            "path": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\trimImages\\spritesheet_js_1692979591537_image_1.png",
+            "trim": {
+              "x": 196,
+              "y": 896,
+              "width": 38,
+              "height": 40,
+              "rotatedWidth": 38,
+              "rotatedHeight": 40
+            },
+            "rawWidth": 38,
+            "rawHeight": 40,
+            "width": 44,
+            "height": 46,
+            "originalPath": "D:/WorkSpace/Project/cocos_proj/huoChaiRen/library/imports/33/3302b5df-42c3-41d5-8718-eb331aa8db48.png",
+            "x": 193,
+            "y": 893,
+            "rotatedWidth": 44,
+            "rotatedHeight": 46
+          }
+        ],
+        "width": 263,
+        "height": 998,
+        "name": "ads-1",
+        "imagePath": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\TexturePacker\\build\\native\\assets\\syys_Texture\\ads\\ads.pac\\ads-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "D:\\WorkSpace\\Project\\cocos_proj\\huoChaiRen\\temp\\TexturePacker\\build\\native\\assets\\syys_Texture\\ads\\ads.pac\\compressed\\ads-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

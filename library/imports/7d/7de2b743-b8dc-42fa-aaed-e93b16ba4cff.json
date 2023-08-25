@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dust",
+    "texture": "4bbf95d5-93fc-4ff0-b41e-84eef5683b1c",
+    "atlas": "",
+    "rect": [
+      1,
+      14,
+      124,
+      98
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

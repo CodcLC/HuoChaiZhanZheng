@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "liquid",
+    "texture": "602d5f67-3c1e-4d03-b53e-7a714fa72d85",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      64,
+      63
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Energy_trail_05",
+    "texture": "8fcdef3d-b04f-4fad-969e-e73827f0e011",
+    "atlas": "",
+    "rect": [
+      12,
+      12,
+      44,
+      244
+    ],
+    "offset": [
+      2,
+      -6
+    ],
+    "originalSize": [
+      64,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

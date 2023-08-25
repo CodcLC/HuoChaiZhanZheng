@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ImpactShape",
+    "texture": "d7c59dd4-65ba-41ae-8d1d-a6a4e8455a1a",
+    "atlas": "",
+    "rect": [
+      90,
+      37,
+      356,
+      403
+    ],
+    "offset": [
+      12,
+      17.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

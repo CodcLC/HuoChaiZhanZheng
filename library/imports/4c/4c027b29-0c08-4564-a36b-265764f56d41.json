@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "kaishi---_0001_di",
+    "texture": "71417873-8510-4169-9dd8-a6d8c7c270eb",
+    "atlas": "",
+    "rect": [
+      0,
+      3,
+      785,
+      394
+    ],
+    "offset": [
+      -1.5,
+      -1.5
+    ],
+    "originalSize": [
+      788,
+      397
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

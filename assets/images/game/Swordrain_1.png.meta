@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2bf35e42-4fe1-4beb-a0d9-a4f65de86ea9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 196,
+  "height": 196,
+  "platformSettings": {},
+  "subMetas": {
+    "Swordrain_1": {
+      "ver": "1.0.4",
+      "uuid": "b3bfb700-95ca-498c-b35e-11dbc9dd0cca",
+      "rawTextureUuid": "2bf35e42-4fe1-4beb-a0d9-a4f65de86ea9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 196,
+      "height": 196,
+      "rawWidth": 196,
+      "rawHeight": 196,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_ht_dk6",
+    "texture": "76118720-f185-440a-83a8-f3ad379b92f6",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      278,
+      57
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      278,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Image_Background_BambooForest1_Base",
+    "texture": "a5ec1ce4-9d46-4d3d-9140-89e345a1a01b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      22,
+      512
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      22,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

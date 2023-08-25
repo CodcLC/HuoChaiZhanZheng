@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Circle_power_sphere",
+    "texture": "2b88b75d-1860-4fdb-aedd-80545c899508",
+    "atlas": "",
+    "rect": [
+      9,
+      13,
+      235,
+      235
+    ],
+    "offset": [
+      -1.5,
+      -2.5
+    ],
+    "originalSize": [
+      256,
+      256
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

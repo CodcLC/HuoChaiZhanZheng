@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "videorelive",
+    "texture": "b2c53e77-6fec-4aa0-8c66-6509b1fe8110",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      274,
+      105
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      275,
+      106
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

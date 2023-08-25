@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TEMPLETOP",
+    "texture": "b72c4f64-99d5-425e-90b4-d285eca84a62",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      90,
+      163
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      90,
+      163
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

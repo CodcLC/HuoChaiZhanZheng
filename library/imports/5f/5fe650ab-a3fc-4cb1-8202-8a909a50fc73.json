@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bt_chaping_01",
+    "texture": "230c65fb-cbea-478b-b769-2c8880ffe541",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      394,
+      141
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      394,
+      141
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "om_common_gq2",
+    "texture": "1c419bea-e1b0-41b3-b0fa-90c1b6d9416f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      58,
+      37
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      58,
+      37
+    ],
+    "capInsets": [
+      20,
+      12,
+      21,
+      13
+    ]
+  }
+}

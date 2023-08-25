@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coin_drop",
+    "texture": "28c73425-8430-4159-b657-be9f0e6d5b7c",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      79,
+      79
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      88,
+      88
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

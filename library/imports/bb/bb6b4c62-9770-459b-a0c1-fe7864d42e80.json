@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Image_JoyStickBase",
+    "texture": "0ebca58d-d756-4ff7-8967-0055db7294a8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      236,
+      235
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      236,
+      235
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

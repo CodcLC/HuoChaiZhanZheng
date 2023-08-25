@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jolt1",
+    "texture": "c75d72ad-ec66-4a3c-acab-b694cc0c7664",
+    "atlas": "",
+    "rect": [
+      25,
+      1,
+      98,
+      147
+    ],
+    "offset": [
+      12,
+      12
+    ],
+    "originalSize": [
+      124,
+      173
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "passive_border",
+    "texture": "fe93fa11-909f-4e56-984c-b55313f93483",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      192,
+      192
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      195,
+      195
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

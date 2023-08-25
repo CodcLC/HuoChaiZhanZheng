@@ -1,0 +1,1782 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "gamebase_data",
+  "_objFlags": 0,
+  "_native": "",
+  "json": {
+    "swordRainInterval": 0.2,
+    "DropBloodProbability": 0.05,
+    "enemyData": {
+      "enemy1": {
+        "hp": 400,
+        "damage": 52,
+        "dropCoinNumber": 2,
+        "isSuperArmor": false
+      },
+      "enemy2": {
+        "hp": 400,
+        "damage": 66,
+        "dropCoinNumber": 2,
+        "isSuperArmor": false
+      },
+      "ladyBug": {
+        "hp": 250,
+        "damage": 53,
+        "dropCoinNumber": 1,
+        "isSuperArmor": true
+      },
+      "enemy29": {
+        "hp": 600,
+        "damage": 74,
+        "dropCoinNumber": 2,
+        "isSuperArmor": false
+      },
+      "enemy10": {
+        "hp": 7000,
+        "damage": 231,
+        "dropCoinNumber": 10,
+        "isSuperArmor": true
+      },
+      "bigSquid": {
+        "hp": 200,
+        "damage": 33,
+        "dropCoinNumber": 1,
+        "isSuperArmor": true
+      },
+      "enemy39": {
+        "hp": 7000,
+        "damage": 125,
+        "dropCoinNumber": 10,
+        "isSuperArmor": true
+      },
+      "spiderling": {
+        "hp": 400,
+        "damage": 50,
+        "dropCoinNumber": 1,
+        "isSuperArmor": false
+      },
+      "shader": {
+        "hp": 2000,
+        "damage": 208,
+        "dropCoinNumber": 5,
+        "isSuperArmor": true
+      },
+      "enemy20": {
+        "hp": 1000,
+        "damage": 65,
+        "dropCoinNumber": 5,
+        "isSuperArmor": false
+      },
+      "enemy18": {
+        "hp": 300,
+        "damage": 138,
+        "dropCoinNumber": 5,
+        "isSuperArmor": true
+      },
+      "miniBoss": {
+        "hp": 7000,
+        "damage": 233,
+        "dropCoinNumber": 10,
+        "isSuperArmor": true
+      },
+      "miniBossFlag": {
+        "hp": 300,
+        "damage": 352,
+        "dropCoinNumber": 3,
+        "isSuperArmor": true
+      }
+    },
+    "enemyHpTimes": {
+      "0": 1,
+      "1": 1.5,
+      "2": 2,
+      "3": 3
+    },
+    "enemyDamageTimes": {
+      "0": 0.4,
+      "1": 0.8,
+      "2": 1.5,
+      "3": 2
+    },
+    "waveInterval": 6,
+    "levelData": {
+      "1": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 1,
+          "amount": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "enemyNames": [
+            "enemy1"
+          ]
+        }
+      },
+      "2": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            3,
+            3,
+            4,
+            4
+          ],
+          "enemyNames": [
+            "bigSquid",
+            "ladyBug"
+          ]
+        }
+      },
+      "3": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            3,
+            3,
+            5,
+            6
+          ],
+          "enemyNames": [
+            "miniBossFlag",
+            "enemy1"
+          ]
+        }
+      },
+      "4": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            4,
+            4,
+            5,
+            5
+          ],
+          "enemyNames": [
+            "bigSquid",
+            "enemy18"
+          ]
+        }
+      },
+      "5": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 1,
+          "amount": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "enemyNames": [
+            "enemy20"
+          ]
+        }
+      },
+      "6": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            4,
+            4,
+            5,
+            7
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy2"
+          ]
+        }
+      },
+      "7": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            4,
+            4,
+            5,
+            5
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy1"
+          ]
+        }
+      },
+      "8": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            4,
+            4,
+            5,
+            5
+          ],
+          "enemyNames": [
+            "enemy18",
+            "spiderling"
+          ]
+        }
+      },
+      "9": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            4,
+            4,
+            5,
+            5
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29"
+          ]
+        }
+      },
+      "10": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 1,
+          "amount": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "enemyNames": [
+            "shader"
+          ]
+        }
+      },
+      "11": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            4,
+            4,
+            5,
+            5
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy2",
+            "enemy29"
+          ]
+        }
+      },
+      "12": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            3,
+            4,
+            5,
+            6
+          ],
+          "enemyNames": [
+            "miniBossFlag",
+            "enemy18"
+          ]
+        }
+      },
+      "13": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "enemyNames": [
+            "bigSquid",
+            "miniBossFlag"
+          ]
+        }
+      },
+      "14": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            3,
+            4,
+            5,
+            7
+          ],
+          "enemyNames": [
+            "enemy29",
+            "enemy18",
+            "spiderling"
+          ]
+        }
+      },
+      "15": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 1,
+          "amount": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "enemyNames": [
+            "enemy10"
+          ]
+        }
+      },
+      "16": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy2",
+            "ladyBug"
+          ]
+        }
+      },
+      "17": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy2",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "18": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "bigSquid",
+            "enemy18"
+          ]
+        }
+      },
+      "19": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "miniBossFlag",
+            "enemy2",
+            "enemy29",
+            "bigSquid"
+          ]
+        }
+      },
+      "20": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 1,
+          "amount": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "enemyNames": [
+            "enemy39"
+          ]
+        }
+      },
+      "21": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy18",
+            "spiderling"
+          ]
+        }
+      },
+      "22": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy18",
+            "enemy29",
+            "miniBossFlag"
+          ]
+        }
+      },
+      "23": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "24": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "bigSquid"
+          ]
+        }
+      },
+      "25": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 1,
+          "amount": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "enemyNames": [
+            "miniBoss"
+          ]
+        }
+      },
+      "26": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "27": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy29",
+            "miniBossFlag",
+            "enemy2"
+          ]
+        }
+      },
+      "28": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy18",
+            "shader",
+            "enemy20"
+          ]
+        }
+      },
+      "29": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "ladyBug",
+            "enemy29",
+            "bigSquid"
+          ]
+        }
+      },
+      "30": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "enemyNames": [
+            "enemy10"
+          ]
+        }
+      },
+      "31": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy2",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "32": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy2",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "33": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy2",
+            "enemy29",
+            "ladyBug"
+          ]
+        }
+      },
+      "34": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy2",
+            "enemy29",
+            "bigSquid"
+          ]
+        }
+      },
+      "35": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy10"
+          ]
+        }
+      },
+      "36": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy18",
+            "spiderling"
+          ]
+        }
+      },
+      "37": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy18",
+            "spiderling",
+            "enemy29",
+            "miniBossFlag"
+          ]
+        }
+      },
+      "38": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "39": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "40": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy39"
+          ]
+        }
+      },
+      "41": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "42": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy29",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "43": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "44": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy20",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "45": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 1,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "miniBoss"
+          ]
+        }
+      },
+      "46": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "47": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "48": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "enemy29",
+            "ladyBug"
+          ]
+        }
+      },
+      "49": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "enemy29",
+            "bigSquid"
+          ]
+        }
+      },
+      "50": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy10"
+          ]
+        }
+      },
+      "51": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy18",
+            "spiderling"
+          ]
+        }
+      },
+      "52": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy18",
+            "spiderling",
+            "enemy29",
+            "miniBossFlag"
+          ]
+        }
+      },
+      "53": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "54": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "55": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy39"
+          ]
+        }
+      },
+      "56": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "57": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy29",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "58": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "59": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy20",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "60": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            1,
+            1,
+            1,
+            1
+          ],
+          "enemyNames": [
+            "miniBoss"
+          ]
+        }
+      },
+      "61": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "62": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "63": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "enemy29",
+            "ladyBug"
+          ]
+        }
+      },
+      "64": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "enemy29",
+            "bigSquid"
+          ]
+        }
+      },
+      "65": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy10"
+          ]
+        }
+      },
+      "66": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy18",
+            "spiderling"
+          ]
+        }
+      },
+      "67": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy18",
+            "spiderling",
+            "enemy29",
+            "miniBossFlag"
+          ]
+        }
+      },
+      "68": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "69": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "70": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy39"
+          ]
+        }
+      },
+      "71": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "72": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy29",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "73": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "74": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy20",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "75": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "miniBoss"
+          ]
+        }
+      },
+      "76": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "77": {
+        "map": 0,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "ladyBug",
+            "enemy29"
+          ]
+        }
+      },
+      "78": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "enemy29",
+            "ladyBug"
+          ]
+        }
+      },
+      "79": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy18",
+            "enemy29",
+            "bigSquid"
+          ]
+        }
+      },
+      "80": {
+        "map": 1,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy10"
+          ]
+        }
+      },
+      "81": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy18",
+            "spiderling"
+          ]
+        }
+      },
+      "82": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy18",
+            "spiderling",
+            "enemy29",
+            "miniBossFlag"
+          ]
+        }
+      },
+      "83": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "84": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "85": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy39"
+          ]
+        }
+      },
+      "86": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "87": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy29",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "88": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "89": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 5,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy20",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "90": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 2,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "miniBoss"
+          ]
+        }
+      },
+      "91": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 6,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy18",
+            "spiderling"
+          ]
+        }
+      },
+      "92": {
+        "map": 2,
+        "enemySpawn": {
+          "wave": 6,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy18",
+            "enemy29",
+            "spiderling",
+            "miniBossFlag"
+          ]
+        }
+      },
+      "93": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 6,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "94": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 6,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "spiderling",
+            "enemy29",
+            "enemy20"
+          ]
+        }
+      },
+      "95": {
+        "map": 3,
+        "enemySpawn": {
+          "wave": 4,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "enemy39"
+          ]
+        }
+      },
+      "96": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 6,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy1",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "97": {
+        "map": 4,
+        "enemySpawn": {
+          "wave": 6,
+          "amount": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "enemyNames": [
+            "enemy29",
+            "enemy20",
+            "shader"
+          ]
+        }
+      },
+      "98": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 6,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy2",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "99": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 6,
+          "amount": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "enemyNames": [
+            "enemy20",
+            "enemy29",
+            "shader"
+          ]
+        }
+      },
+      "100": {
+        "map": 5,
+        "enemySpawn": {
+          "wave": 3,
+          "amount": [
+            2,
+            2,
+            2,
+            2
+          ],
+          "enemyNames": [
+            "miniBoss"
+          ]
+        }
+      }
+    }
+  }
+}

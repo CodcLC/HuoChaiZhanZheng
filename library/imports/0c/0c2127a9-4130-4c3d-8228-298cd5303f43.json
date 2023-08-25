@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LEAVESTOP_2nd_1",
+    "texture": "a255d7c0-4422-4302-b3a4-9f5ea91d71c2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      512,
+      82
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      512,
+      83
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

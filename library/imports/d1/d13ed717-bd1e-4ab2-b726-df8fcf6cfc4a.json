@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xue_0001_ren",
+    "texture": "8a324223-50c1-48c3-9fe9-a156c4ad0a71",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      446,
+      490
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      447,
+      490
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

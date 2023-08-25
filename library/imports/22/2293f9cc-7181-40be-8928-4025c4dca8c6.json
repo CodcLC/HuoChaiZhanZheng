@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guanqia_0031_huahen",
+    "texture": "9435008c-0d23-4c21-b1f5-daadbea1a2af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      840,
+      607
+    ],
+    "offset": [
+      -3.5,
+      0
+    ],
+    "originalSize": [
+      847,
+      607
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

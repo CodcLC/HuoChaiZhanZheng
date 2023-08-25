@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TEMPLE",
+    "texture": "038c3b8c-700e-4961-931b-f1bdaeb64b80",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      401,
+      424
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      402,
+      424
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

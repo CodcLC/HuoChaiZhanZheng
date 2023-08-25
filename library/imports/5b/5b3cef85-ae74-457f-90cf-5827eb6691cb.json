@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lose_coin",
+    "texture": "83371468-a169-4954-8fb3-e97358d47801",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      183,
+      184
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      183,
+      184
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

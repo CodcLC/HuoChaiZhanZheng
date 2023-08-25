@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Image_OuterGlowSkill",
+    "texture": "a2601a3f-72f4-4a7d-9385-c279c34068fc",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      234,
+      233
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      234,
+      233
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

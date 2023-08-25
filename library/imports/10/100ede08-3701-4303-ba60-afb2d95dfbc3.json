@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Swordrain_3",
+    "texture": "f614df0e-edb4-4ce3-9680-55bdcf32a77f",
+    "atlas": "",
+    "rect": [
+      15,
+      0,
+      203,
+      184
+    ],
+    "offset": [
+      7.5,
+      0
+    ],
+    "originalSize": [
+      218,
+      184
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

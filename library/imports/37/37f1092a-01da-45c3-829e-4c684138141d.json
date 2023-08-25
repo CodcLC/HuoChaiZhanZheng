@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "TREES_YORISHIRO",
+    "texture": "16d558b2-6321-4e28-a9b7-154412030883",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      672,
+      414
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      672,
+      414
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

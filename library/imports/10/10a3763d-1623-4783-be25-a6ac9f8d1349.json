@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "difficult",
+    "texture": "d23cfbc6-bd51-4789-a82a-b076e902040d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      35,
+      67
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      35,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

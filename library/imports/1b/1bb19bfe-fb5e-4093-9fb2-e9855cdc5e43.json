@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tet_ht_jx",
+    "texture": "7b91cec3-75a6-46da-803f-5d78490c90a4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      188,
+      38
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      188,
+      38
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

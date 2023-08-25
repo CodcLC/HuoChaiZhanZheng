@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CART",
+    "texture": "b0eff332-c3f2-433e-93e0-7de90fcd1427",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      156,
+      117
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      157,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

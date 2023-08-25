@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "CFXM4_T_Fragments_4frms",
+    "texture": "a17d1acb-b6ee-4836-ba99-7b16a680b250",
+    "atlas": "",
+    "rect": [
+      14,
+      9,
+      100,
+      108
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      128,
+      128
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

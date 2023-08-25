@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fx_leo",
+    "texture": "d2e15c06-e4f6-42e7-97c8-cf48908d6029",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      1858,
+      263
+    ],
+    "offset": [
+      -94,
+      123.5
+    ],
+    "originalSize": [
+      2048,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

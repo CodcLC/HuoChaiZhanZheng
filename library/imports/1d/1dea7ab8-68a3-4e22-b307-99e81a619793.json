@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Image_Background_OldEstate1_Base",
+    "texture": "c69dbc83-8dc0-46d4-a9e6-f4dddda762ed",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      89,
+      2048
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      89,
+      2048
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

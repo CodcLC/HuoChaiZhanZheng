@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sy_0010_deng",
+    "texture": "5f74461e-d00e-4308-bdf5-783451dc1fde",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      45,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      45,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

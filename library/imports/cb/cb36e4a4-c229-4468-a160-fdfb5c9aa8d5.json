@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LightGate_d1",
+    "texture": "6ac229e4-eeb2-436a-8f2c-57b1d8d92e6f",
+    "atlas": "",
+    "rect": [
+      3,
+      16,
+      105,
+      496
+    ],
+    "offset": [
+      -12.5,
+      -8
+    ],
+    "originalSize": [
+      136,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

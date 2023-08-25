@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Barrier",
+    "texture": "ec3814cf-4abf-4c8f-b581-5402584d79e3",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      211,
+      437
+    ],
+    "offset": [
+      -3,
+      -0.5
+    ],
+    "originalSize": [
+      221,
+      438
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
